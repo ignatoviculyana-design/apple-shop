@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "p1",
+    "name": "iPhone 17 Pro Max 256 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 159990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 17 Pro Max 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p2",
+    "name": "iPhone 17 Pro 256 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 139990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 17 Pro 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p3",
+    "name": "iPhone 17 256 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 99990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 17 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p4",
+    "name": "iPhone 16 Pro Max 256 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 139990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 16 Pro Max 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p5",
+    "name": "iPhone 16 Pro 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 119990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 16 Pro 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p6",
+    "name": "iPhone 16 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 84990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 16 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p7",
+    "name": "iPhone 16 Plus 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 94990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 16 Plus 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p8",
+    "name": "iPhone 15 Pro 256 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 99990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 15 Pro 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p9",
+    "name": "iPhone 15 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 69990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 15 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p10",
+    "name": "iPhone 15 Plus 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 79990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 15 Plus 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p11",
+    "name": "iPhone 14 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 59990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 14 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p12",
+    "name": "iPhone 14 Plus 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 67990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 14 Plus 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p13",
+    "name": "iPhone 13 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 49990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 13 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p14",
+    "name": "iPhone SE 128 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 39990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone SE 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p15",
+    "name": "iPhone 17 Pro Max 512 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 179990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 17 Pro Max 512 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p16",
+    "name": "iPhone 17 Pro 512 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 159990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 17 Pro 512 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p17",
+    "name": "iPhone 16 Pro Max 512 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 159990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 16 Pro Max 512 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p18",
+    "name": "iPhone 16 Pro 256 ГБ",
+    "category": "iPhone",
+    "categoryName": "Смартфоны",
+    "price": 129990,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=640&auto=format&fit=crop",
+    "description": "iPhone 16 Pro 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p19",
+    "name": "iPad Pro 13 M5 256 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 149990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad Pro 13 M5 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p20",
+    "name": "iPad Pro 11 M5 256 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 119990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad Pro 11 M5 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p21",
+    "name": "iPad Air 13 M3 128 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 89990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad Air 13 M3 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p22",
+    "name": "iPad Air 11 M3 128 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 69990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad Air 11 M3 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p23",
+    "name": "iPad mini A17 Pro 128 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 59990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad mini A17 Pro 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p24",
+    "name": "iPad 11 128 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 44990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad 11 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p25",
+    "name": "iPad 10 64 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 37990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad 10 64 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p26",
+    "name": "iPad Pro 13 M4 512 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 169990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad Pro 13 M4 512 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p27",
+    "name": "iPad Pro 11 M4 256 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 109990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad Pro 11 M4 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p28",
+    "name": "iPad Air 13 M2 256 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 84990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad Air 13 M2 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p29",
+    "name": "iPad Air 11 M2 256 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 74990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad Air 11 M2 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p30",
+    "name": "iPad 11 256 ГБ",
+    "category": "iPad",
+    "categoryName": "Планшеты",
+    "price": 54990,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=640&auto=format&fit=crop",
+    "description": "iPad 11 256 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p31",
+    "name": "MacBook Air 13 M4 16/256",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 119990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Air 13 M4 16/256 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p32",
+    "name": "MacBook Air 15 M4 16/256",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 139990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Air 15 M4 16/256 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p33",
+    "name": "MacBook Pro 14 M4 16/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 189990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Pro 14 M4 16/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p34",
+    "name": "MacBook Pro 16 M4 Pro 24/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 289990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Pro 16 M4 Pro 24/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p35",
+    "name": "MacBook Air 13 M3 16/256",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 99990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Air 13 M3 16/256 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p36",
+    "name": "MacBook Air 15 M3 16/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 129990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Air 15 M3 16/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p37",
+    "name": "MacBook Pro 14 M4 Pro 24/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 249990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Pro 14 M4 Pro 24/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p38",
+    "name": "Mac mini M4 16/256",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 69990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "Mac mini M4 16/256 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p39",
+    "name": "Mac mini M4 Pro 24/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 139990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "Mac mini M4 Pro 24/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p40",
+    "name": "iMac 24 M4 16/256",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 159990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "iMac 24 M4 16/256 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p41",
+    "name": "Mac Studio M4 Max 36/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 299990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "Mac Studio M4 Max 36/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p42",
+    "name": "MacBook Pro 14 M3 18/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 169990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Pro 14 M3 18/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p43",
+    "name": "MacBook Air 13 M2 8/256",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 79990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Air 13 M2 8/256 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p44",
+    "name": "MacBook Pro 16 M3 Pro 18/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 239990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Pro 16 M3 Pro 18/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p45",
+    "name": "MacBook Pro 14 M4 Max 36/1TB",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 359990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Pro 14 M4 Max 36/1TB — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p46",
+    "name": "MacBook Air 15 M4 24/512",
+    "category": "Mac",
+    "categoryName": "Ноутбуки",
+    "price": 169990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=640&auto=format&fit=crop",
+    "description": "MacBook Air 15 M4 24/512 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p47",
+    "name": "PlayStation 5 Slim",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 59990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "PlayStation 5 Slim — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p48",
+    "name": "PlayStation 5 Pro",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 89990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "PlayStation 5 Pro — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p49",
+    "name": "PlayStation Portal",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 29990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "PlayStation Portal — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p50",
+    "name": "Nintendo Switch OLED",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 29990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "Nintendo Switch OLED — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p51",
+    "name": "Nintendo Switch 2",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 44990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "Nintendo Switch 2 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p52",
+    "name": "Xbox Series X",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 59990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "Xbox Series X — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p53",
+    "name": "Xbox Series S 1 ТБ",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 39990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "Xbox Series S 1 ТБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p54",
+    "name": "DualSense белый",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 7990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "DualSense белый — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p55",
+    "name": "DualSense Edge",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 21990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "DualSense Edge — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p56",
+    "name": "PS VR2",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 49990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "PS VR2 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p57",
+    "name": "PlayStation 5 Slim Digital",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 54990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "PlayStation 5 Slim Digital — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p58",
+    "name": "Nintendo Switch Lite",
+    "category": "Gaming",
+    "categoryName": "Приставки",
+    "price": 16990,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=640&auto=format&fit=crop",
+    "description": "Nintendo Switch Lite — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p59",
+    "name": "HomePod 2",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 34990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "HomePod 2 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p60",
+    "name": "HomePod mini",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 12990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "HomePod mini — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p61",
+    "name": "Apple TV 4K 128 ГБ",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 19990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Apple TV 4K 128 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p62",
+    "name": "Apple TV 4K 64 ГБ",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 16990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Apple TV 4K 64 ГБ — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p63",
+    "name": "AirTag 1 шт.",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 3990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "AirTag 1 шт. — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p64",
+    "name": "AirTag комплект 4 шт.",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 10990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "AirTag комплект 4 шт. — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p65",
+    "name": "HomePod mini Midnight",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 12990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "HomePod mini Midnight — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p66",
+    "name": "Apple TV 4K Wi-Fi + Ethernet",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 21990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Apple TV 4K Wi-Fi + Ethernet — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p67",
+    "name": "Умная колонка HomePod 2 White",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 34990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Умная колонка HomePod 2 White — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p68",
+    "name": "Камера умного дома Aqara G3",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 9990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Камера умного дома Aqara G3 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p69",
+    "name": "Датчик Aqara Door & Window",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 2490,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Датчик Aqara Door & Window — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p70",
+    "name": "Хаб Aqara M3",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 13990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Хаб Aqara M3 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p71",
+    "name": "Умная лампа Nanoleaf",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 4990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Умная лампа Nanoleaf — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p72",
+    "name": "Умная розетка Eve Energy",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 5990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Умная розетка Eve Energy — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p73",
+    "name": "Датчик температуры Eve",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 4990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Датчик температуры Eve — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p74",
+    "name": "Камера Aqara E1",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 5990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "Камера Aqara E1 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p75",
+    "name": "HomePod mini Blue",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 12990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "HomePod mini Blue — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p76",
+    "name": "AirTag держатель Apple",
+    "category": "Home",
+    "categoryName": "Для дома",
+    "price": 2990,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ff5e3ad3?w=640&auto=format&fit=crop",
+    "description": "AirTag держатель Apple — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p77",
+    "name": "AirPods Pro 3",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 27990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "AirPods Pro 3 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p78",
+    "name": "AirPods 4 ANC",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 19990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "AirPods 4 ANC — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p79",
+    "name": "AirPods 4",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 14990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "AirPods 4 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p80",
+    "name": "AirPods Max USB-C",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 59990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "AirPods Max USB-C — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p81",
+    "name": "Apple Watch Series 11",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 39990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "Apple Watch Series 11 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p82",
+    "name": "Apple Watch Ultra 3",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 89990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "Apple Watch Ultra 3 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p83",
+    "name": "Apple Watch SE 3",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 24990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "Apple Watch SE 3 — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p84",
+    "name": "Apple Pencil Pro",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 12990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "Apple Pencil Pro — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p85",
+    "name": "Magic Keyboard iPad Pro",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 34990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "Magic Keyboard iPad Pro — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p86",
+    "name": "Magic Mouse USB-C",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 9990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "Magic Mouse USB-C — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p87",
+    "name": "Magic Trackpad USB-C",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 14990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "Magic Trackpad USB-C — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p88",
+    "name": "MagSafe Charger",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 4990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "MagSafe Charger — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p89",
+    "name": "20W USB-C адаптер",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 2990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "20W USB-C адаптер — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p90",
+    "name": "USB-C кабель 2 м",
+    "category": "Accessories",
+    "categoryName": "Аксессуары",
+    "price": 2990,
+    "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=640&auto=format&fit=crop",
+    "description": "USB-C кабель 2 м — техника и аксессуары для повседневного использования."
+  },
+  {
+    "id": "p91",
+    "name": "Xiaomi 15 Ultra 512 ГБ",
+    "category": "Xiaomi",
+    "categoryName": "Смартфоны Xiaomi",
+    "price": 119990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi 15 Ultra 512 ГБ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p92",
+    "name": "Xiaomi 15 256 ГБ",
+    "category": "Xiaomi",
+    "categoryName": "Смартфоны Xiaomi",
+    "price": 79990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi 15 256 ГБ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p93",
+    "name": "Xiaomi 14T Pro 512 ГБ",
+    "category": "Xiaomi",
+    "categoryName": "Смартфоны Xiaomi",
+    "price": 59990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi 14T Pro 512 ГБ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p94",
+    "name": "Xiaomi Redmi Note 14 Pro+ 512 ГБ",
+    "category": "Xiaomi",
+    "categoryName": "Смартфоны Xiaomi",
+    "price": 39990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi Redmi Note 14 Pro+ 512 ГБ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p95",
+    "name": "Redmi Note 14 256 ГБ",
+    "category": "Xiaomi",
+    "categoryName": "Смартфоны Xiaomi",
+    "price": 19990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Redmi Note 14 256 ГБ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p96",
+    "name": "POCO F7 Pro 512 ГБ",
+    "category": "Xiaomi",
+    "categoryName": "Смартфоны Xiaomi",
+    "price": 44990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "POCO F7 Pro 512 ГБ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p97",
+    "name": "POCO X7 Pro 256 ГБ",
+    "category": "Xiaomi",
+    "categoryName": "Смартфоны Xiaomi",
+    "price": 29990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "POCO X7 Pro 256 ГБ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p98",
+    "name": "Xiaomi Pad 7 256 ГБ",
+    "category": "Xiaomi",
+    "categoryName": "Планшеты Xiaomi",
+    "price": 34990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi Pad 7 256 ГБ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p99",
+    "name": "Xiaomi Smart Band 9 Pro",
+    "category": "Xiaomi",
+    "categoryName": "Часы и браслеты Xiaomi",
+    "price": 8990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi Smart Band 9 Pro — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p100",
+    "name": "Xiaomi Watch S4",
+    "category": "Xiaomi",
+    "categoryName": "Часы и браслеты Xiaomi",
+    "price": 14990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi Watch S4 — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p101",
+    "name": "Xiaomi Buds 5 Pro",
+    "category": "Xiaomi",
+    "categoryName": "Наушники Xiaomi",
+    "price": 12990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi Buds 5 Pro — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p102",
+    "name": "Xiaomi Robot Vacuum X20+",
+    "category": "Xiaomi",
+    "categoryName": "Техника для дома Xiaomi",
+    "price": 39990,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=640&auto=format&fit=crop",
+    "description": "Xiaomi Robot Vacuum X20+ — техника Xiaomi для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p103",
+    "name": "Samsung Galaxy S25 Ultra 256 ГБ",
+    "category": "Samsung",
+    "categoryName": "Смартфоны Samsung",
+    "price": 124990,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=640&auto=format&fit=crop",
+    "description": "Samsung Galaxy S25 Ultra 256 ГБ — техника Samsung для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p104",
+    "name": "Samsung Galaxy S25 256 ГБ",
+    "category": "Samsung",
+    "categoryName": "Смартфоны Samsung",
+    "price": 79990,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=640&auto=format&fit=crop",
+    "description": "Samsung Galaxy S25 256 ГБ — техника Samsung для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p105",
+    "name": "Samsung Galaxy A56 256 ГБ",
+    "category": "Samsung",
+    "categoryName": "Смартфоны Samsung",
+    "price": 39990,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=640&auto=format&fit=crop",
+    "description": "Samsung Galaxy A56 256 ГБ — техника Samsung для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p106",
+    "name": "Samsung Galaxy Tab S10 FE 128 ГБ",
+    "category": "Samsung",
+    "categoryName": "Планшеты Samsung",
+    "price": 49990,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=640&auto=format&fit=crop",
+    "description": "Samsung Galaxy Tab S10 FE 128 ГБ — техника Samsung для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p107",
+    "name": "Samsung Galaxy Watch 7",
+    "category": "Samsung",
+    "categoryName": "Часы Samsung",
+    "price": 22990,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=640&auto=format&fit=crop",
+    "description": "Samsung Galaxy Watch 7 — техника Samsung для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p108",
+    "name": "Samsung Galaxy Buds3 Pro",
+    "category": "Samsung",
+    "categoryName": "Наушники Samsung",
+    "price": 16990,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=640&auto=format&fit=crop",
+    "description": "Samsung Galaxy Buds3 Pro — техника Samsung для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p109",
+    "name": "Huawei Pura 70 256 ГБ",
+    "category": "Huawei",
+    "categoryName": "Смартфоны Huawei",
+    "price": 59990,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=640&auto=format&fit=crop",
+    "description": "Huawei Pura 70 256 ГБ — техника Huawei для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p110",
+    "name": "Huawei MatePad 11.5 128 ГБ",
+    "category": "Huawei",
+    "categoryName": "Планшеты Huawei",
+    "price": 27990,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=640&auto=format&fit=crop",
+    "description": "Huawei MatePad 11.5 128 ГБ — техника Huawei для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p111",
+    "name": "Huawei Watch GT 5 46 мм",
+    "category": "Huawei",
+    "categoryName": "Часы Huawei",
+    "price": 19990,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=640&auto=format&fit=crop",
+    "description": "Huawei Watch GT 5 46 мм — техника Huawei для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p112",
+    "name": "Huawei FreeBuds Pro 4",
+    "category": "Huawei",
+    "categoryName": "Наушники Huawei",
+    "price": 14990,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=640&auto=format&fit=crop",
+    "description": "Huawei FreeBuds Pro 4 — техника Huawei для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p113",
+    "name": "Dyson V15 Detect",
+    "category": "Dyson",
+    "categoryName": "Техника для дома Dyson",
+    "price": 69990,
+    "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?w=640&auto=format&fit=crop",
+    "description": "Dyson V15 Detect — техника Dyson для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p114",
+    "name": "Dyson Airwrap Complete Long",
+    "category": "Dyson",
+    "categoryName": "Уход за волосами Dyson",
+    "price": 59990,
+    "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?w=640&auto=format&fit=crop",
+    "description": "Dyson Airwrap Complete Long — техника Dyson для повседневного использования. Цена ориентировочная."
+  },
+  {
+    "id": "p115",
+    "name": "Dyson Supersonic Nural",
+    "category": "Dyson",
+    "categoryName": "Уход за волосами Dyson",
+    "price": 39990,
+    "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?w=640&auto=format&fit=crop",
+    "description": "Dyson Supersonic Nural — техника Dyson для повседневного использования. Цена ориентировочная."
+  }
+]
